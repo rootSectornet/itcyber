@@ -35,6 +35,7 @@
 --> Struktur Folder
 
 -> Itcyber
+	<pre>
 	-->application
 		--->cahce
 		--->config
@@ -120,7 +121,7 @@
     -->index.php        #default index from codeigniter
     -->Readme.MD        #for intructions for source this web
 
- 
+	 </pre>
 -->Instalations
 	<ol>
 		<li>create database itcyber</li>
